@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE student [
+    <!ELEMENT student ANY>
+    <!ELEMENT name (#PCDATA)>
+    <!ELEMENT class (#PCDATA)>
+    <!ELEMENT standard (#PCDATA)>
+    <!ELEMENT age (#PCDATA)>
+    <!ELEMENT section (#PCDATA)>
+]>
+<student>
+    <name>malware</name>
+    <class>11</class>
+    <!-- <standard>11th</standard> -->
+    <age>almost 18</age>
+    <section>A</section>
+</student>
